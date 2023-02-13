@@ -1,11 +1,11 @@
 name: Github Actions Example
 
 on:
-  pull_request:
+  
   push:
     branches:
       -master
-      -develop
+      
 
 jobs:
   test:
