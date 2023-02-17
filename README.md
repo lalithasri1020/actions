@@ -1,6 +1,2 @@
- actions
- bugfix
 
- tag
- versions tags
-sample
+conflicts
