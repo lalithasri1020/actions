@@ -1,5 +1,2 @@
- actions
- sprint
- tag
- versions tags
-sample
+
+conflicts
