@@ -1,5 +1,5 @@
  actions
- naming
+ sprint
  tag
  versions tags
 sample
