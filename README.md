@@ -1,5 +1,6 @@
  actions
- naming
+ bugfix
+
  tag
  versions tags
 sample
